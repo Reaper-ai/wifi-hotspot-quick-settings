@@ -4,6 +4,7 @@
   "uuid": "wifi-hotspot-quick-settings@aryan10.github.io",
   "url": "https://github.com/Aryan10/wifi-hotspot-quick-settings",
   "shell-version": [
-    "50"
+    "50",
+    "51"
   ]
 }
